@@ -12,9 +12,11 @@ A simple JavaScript implementation of the classic snake game, inspired by the ic
 1. Clone the repository:
    ```bash
    git clone https://github.com/SamarthWalse10/Snake-Mania.git
+<br/>
+
+![36393747-6cb1-4b62-8367-a5678f0c3f32](https://github.com/SamarthWalse10/Snake-Mania/assets/125689593/5d5858ef-a843-42b2-83b7-8c0f7b8b6a24)
+<br/>
 ## Acknowledgements
 The original snake game concept and design were popularized by Nokia.
 Thanks to the open-source community for providing inspiration and resources.
 Contact
-<br/>
-
